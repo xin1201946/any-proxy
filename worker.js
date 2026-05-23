@@ -10,7 +10,7 @@
  */
 
 // 目标网站地址
-const TARGET_HOST = 'anyrouter.top';
+const TARGET_HOST = 'google.com';
 const TARGET_URL = `https://${TARGET_HOST}`;
 
 // 日志大小限制（KB）
